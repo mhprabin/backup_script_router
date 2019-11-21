@@ -1,4 +1,4 @@
-#python script to backup config of router
+#python script to backup config of cisco, arista router
 #netmiko script
 
 import getpass
